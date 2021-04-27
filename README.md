@@ -1,1 +1,2 @@
-# final-zombie-game1
+# staticSquare
+A static square made using Matter.js physics engine
